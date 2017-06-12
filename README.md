@@ -5,6 +5,9 @@ This video review lesson covers many of the concepts that you've learned about i
 ## Video
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/PT_C2211_QE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+[End Code](https://github.com/aviflombaum/todo-mvc-lv/tree/handlebars-final)
+
+
 ## How You Can Help Us Make These Videos Better
 
 ### Suggest a Summary of the Video That We Can Add
@@ -37,3 +40,5 @@ Do you think this video would be better if it were somewhere else in the curricu
 Any other comments or feedback you have? Raise an issue and let us know. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-handlebars-and-js-prototypes'>Rails Video Review: Handlebars and JS Prototypes</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-handlebars-and-js-prototypes'>Video Review: Handlebars and JS Prototypes</a> on Learn.co and start learning to code for free.</p>
